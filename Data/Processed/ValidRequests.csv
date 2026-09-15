@@ -1,0 +1,3 @@
+RequestID,PatientID,SampleID,TestType,Priority,Department,RequestDate
+REQ-1001,PID-20451,SMP-7801,WES,Routine,Oncology,2026-09-15
+REQ-1002,PID-20452,SMP-7802,RNA-Seq,Urgent,Pathology,2026-09-15
