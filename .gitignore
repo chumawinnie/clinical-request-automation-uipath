@@ -1,0 +1,15 @@
+# UiPath generated and local files
+.local/
+.project/
+.settings/
+.nuget/
+packages/
+*.user
+*.suo
+*.log
+
+# Build and temporary output
+bin/
+obj/
+.cache/
+screenshots/
