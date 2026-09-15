@@ -10,9 +10,9 @@ Clinical and laboratory teams often receive structured requests that must be che
 
 This UiPath workflow demonstrates how robotic process automation can perform an initial rules-based validation and create clear outputs for further review.
 
-## Relevance to Kantonsspital Graubünden
+## Healthcare automation context
 
-Publicly documented KSGR data and processes that could plausibly be automated include:
+Healthcare organisations commonly handle data and processes such as:
 
 - Patient referrals and registrations
 - Appointment and outpatient-clinic requests
@@ -22,7 +22,7 @@ Publicly documented KSGR data and processes that could plausibly be automated in
 - Requests for discharge reports
 - Administrative forms and documents
 
-This portfolio project does not claim to reproduce an existing KSGR process. It demonstrates transferable UiPath techniques that could support comparable healthcare workflows.
+This portfolio project does not reproduce an existing hospital process. It demonstrates transferable UiPath techniques that could support comparable healthcare workflows.
 
 ## What the workflow does
 
@@ -40,7 +40,7 @@ This portfolio project does not claim to reproduce an existing KSGR process. It 
 7. Adds a `RejectionReason` for every rejected request.
 8. Records processing activity in the UiPath execution log.
 
-The example test types are based on the author's bioinformatics background. They are not presented as confirmed services offered by KSGR or any other specific hospital.
+The example test types are based on the author's bioinformatics background and are not presented as the service catalogue of any specific hospital.
 
 ## Validation results
 
